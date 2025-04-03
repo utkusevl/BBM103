@@ -2,7 +2,7 @@
 
 This directory contains the second programming assignment (PA2) for BBM103 - Fall 2024.
 
-## 📄 A2.pdf
+## 📄 PA2.pdf
 Project description and detailed requirements.
 
 ## 🧪 sample_io/
