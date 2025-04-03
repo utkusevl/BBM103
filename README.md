@@ -8,7 +8,7 @@ The course is taught using **Python 3**, and focuses on building strong foundati
 ## 📁 Repository Contents
 
 - `PA2/`, `PA3/`, `PA4/` – Main programming assignments with:
-  - 📄 **Instruction PDFs** (A2.pdf, A3.pdf, A4.pdf)
+  - 📄 **Instruction PDFs** (PA2.pdf, PA3.pdf, PA4.pdf)
   - 💻 **Python source codes**
   - 🧪 **Sample input-output files** (`sample_io/` folder)
 
